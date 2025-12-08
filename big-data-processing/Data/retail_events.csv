@@ -1,0 +1,42 @@
+event_time,user_id,product_id,country,device,source,price,quantity,promo_code,email
+2025-08-10T15:06:00,1007,204,US,android,email,66.92,1,,user1007@example.com
+2025-08-10T12:10:00,1006,200,DE,web,ads,28.79,2,SUMMER25,user1006@example.com
+2025-08-10T10:24:00,1007,201,US,web,direct,70.94,2,, USER1007@EXAMPLE.COM 
+2025-08-10T15:21:00,1005,203,US,ios,seo,66.87,2,,user1005@example.com
+2025-08-10T09:17:00,1003,204,CA,ios,ads,27.83,1,,user1003@example.com
+2025-08-10T09:36:00,1007,204,GB,android,seo,79.8,3,,user1007@example.com
+2025-08-10T13:39:00,1006,203,CA,android,direct,113.17,1,SUMMER25,user1006@example.com
+2025-08-10T19:14:00,1000,203,IN,ios,email,22.05,1,,user1000@example.com
+2025-08-10T16:32:00,1008,205,IN,web,email,90.25,1,SUMMER25,user1008@example.com
+2025-08-10T09:52:00,1007,204,DE,ios,direct,63.62,1,SUMMER25, USER1007@EXAMPLE.COM 
+2025-08-10T15:36:00,1000,201,US,ios,email,63.85,2,,user1000@example.com
+2025-08-10T11:35:00,1007,204,DE,web,ads,117.48,3,,user1007@example.com
+2025-08-10T12:59:00,1000,201,US,ios,seo,100.1,2,SUMMER25,user1000@example.com
+2025-08-10T10:37:00,1008,203,US,android,ads,93.56,0,WELCOME10,user1008@example.com
+2025-08-10T12:44:00,1000,204,CA,android,seo,95.87,2,SUMMER25,user1000@example.com
+2025-08-10T17:28:00,1004,201,CA,android,ads,49.5,1,,user1004@example.com
+2025-08-10T12:46:00,1007,203,IN,android,ads,19.71,1,,user1007@example.com
+2025-08-10T18:12:00,1003,202,GB,ios,direct,9.22,1,SUMMER25,user1003@example.com
+2025-08-10T17:45:00,1007,203,IN,web,seo,21.87,3,, USER1007@EXAMPLE.COM 
+2025-08-10T08:11:00,1004,201,US,ios,seo,90.09,3,SUMMER25,user1004@example.com
+2025-08-10T15:54:00,1000,203,US,android,ads,32.85,2,SUMMER25,user1000@example.com
+2025-08-10T09:36:00,1007,204,GB,android,seo,79.8,3,,user1007@example.com
+2025-08-10T11:35:00,1008,205,US,web,email,115.24,2,,user1008@example.com
+2025-08-10T08:22:00,1009,200,US,android,email,26.0,1,,user1009@example.com
+2025-08-10T16:39:00,1009,201,IN,web,ads,56.72,3,SUMMER25,user1009@example.com
+2025-08-10T14:25:00,1005,201,CA,web,direct,10.95,2,, USER1005@EXAMPLE.COM 
+2025-08-10T08:55:00,1006,200,US,web,email,85.04,2,,user1006@example.com
+2025-08-10T17:00:00,1006,205,CA,ios,ads,105.59,2,,user1006@example.com
+2025-08-10T18:29:00,1008,205,DE,web,direct,35.2,0,SUMMER25,user1008@example.com
+2025-08-10T09:07:00,1003,205,GB,web,direct,65.57,3,SUMMER25, USER1003@EXAMPLE.COM 
+2025-08-10T18:22:00,1003,202,IN,ios,ads,36.3,1,,user1003@example.com
+2025-08-10T14:57:00,1008,203,US,ios,ads,25.35,2,,user1008@example.com
+2025-08-10T17:24:00,1009,202,IN,web,ads,5.48,1,SUMMER25, USER1009@EXAMPLE.COM 
+2025-08-10T10:55:00,1009,200,,android,direct,50.2,1,, USER1009@EXAMPLE.COM 
+2025-08-10T14:29:00,1008,203,US,ios,direct,5.21,0,SUMMER25,user1008@example.com
+2025-08-10T13:26:00,1007,203,US,android,ads,32.31,1,SUMMER25,user1007@example.com
+2025-08-10T13:47:00,1003,203,GB,web,email,99.38,1,SUMMER25,user1003@example.com
+2025-08-10T09:59:00,1009,202,GB,android,direct,84.24,1,,user1009@example.com
+2025-08-10T12:15:00,1004,205,IN,ios,email,59.74,0,,user1004@example.com
+2025-08-10T16:09:00,1002,201,US,ios,direct,5.71,3,SUMMER25,user1002@example.com
+2025-08-10T18:47:00,1003,203,US,web,ads,75.06,2,,user1003@example.com
