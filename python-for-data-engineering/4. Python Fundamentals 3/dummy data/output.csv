@@ -1,0 +1,47 @@
+ID,Name,Age,City,Score
+1,Person_1,58.0,Houston,89.18
+2,Person_2,48.0,Los Angeles,85.5
+3,Person_3,34.0,Houston,95.49
+4,Person_4,27.0,Los Angeles,78.89
+5,Person_5,40.0,Los Angeles,64.78
+7,Person_7,38.0,Miami,90.43
+8,Person_8,42.0,Los Angeles,82.45
+9,Person_9,30.0,Los Angeles,90.84
+10,Person_10,30.0,Houston,79.75
+12,Person_12,55.0,Los Angeles,77.1
+13,Person_13,59.0,Houston,61.02
+14,Person_14,43.0,Houston,64.32
+15,Person_15,22.0,New York,61.26
+17,Person_17,21.0,Miami,72.57
+18,Person_18,43.0,Los Angeles,80.34
+19,Person_19,49.0,Miami,96.3
+20,Person_20,57.0,Los Angeles,69.97
+22,Person_22,40.0,Houston,90.22
+23,Person_23,52.0,Houston,69.15
+24,Person_24,31.0,Houston,63.08
+25,Person_25,41.0,Miami,71.59
+26,Person_26,44.0,New York,66.45
+27,Person_27,46.0,Miami,97.19
+28,Person_28,47.0,Miami,92.32
+29,Person_29,35.0,New York,85.34
+30,Person_30,34.0,New York,94.86
+31,Person_31,22.0,New York,92.15
+32,Person_32,56.0,New York,67.46
+33,Person_33,26.0,Houston,95.7
+34,Person_34,40.0,Chicago,81.57
+35,Person_35,28.0,Chicago,92.3
+36,Person_36,58.0,New York,95.84
+37,Person_37,37.0,Chicago,72.72
+38,Person_38,23.0,Chicago,64.4
+39,Person_39,44.0,New York,69.12
+40,Person_40,33.0,Chicago,77.08
+41,Person_41,28.0,Miami,92.72
+42,Person_42,45.0,Los Angeles,94.43
+43,Person_43,21.0,Los Angeles,60.28
+44,Person_44,39.0,New York,80.43
+45,Person_45,47.0,Houston,76.7
+46,Person_46,26.0,New York,68.88
+47,Person_47,27.0,Houston,64.79
+48,Person_48,54.0,Los Angeles,73.5
+49,Person_49,33.0,New York,97.72
+50,Person_50,36.0,Miami,72.93
