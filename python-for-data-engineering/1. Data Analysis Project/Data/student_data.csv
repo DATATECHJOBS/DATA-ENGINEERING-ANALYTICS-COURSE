@@ -1,0 +1,51 @@
+Enrollment ID,Course Name,Category,Student Name,Age,Country,Enrollment Date,Completion Status,Course Rating,Email,Grade
+1001,SQL Mastery,Data,Megan,50,UK,2025-01-17,Completed,4.0,greenwilliam@yahoo.com,Student is a freshman
+1002,Web Dev,Data,Lauren,31,Canada,2025-05-15,In Progress,4.0,corey15@castro-gomez.com,Student is a junior
+1003,Web Dev,Data,Kristen,34,Canada,2024-10-06,Completed,5.0,vclayton@cross.com,Student is a sophomore
+1004,AI for Beginners,Cloud,Victoria,37,India,2025-04-18,Dropped,3.2,turnerkelly@gmail.com,Student is a junior
+1005,Python Basics,Cloud,Ivan,24,Germany,2025-03-08,In Progress,3.7,salazardiane@jones-shelton.com,Student is a freshman
+1006,Web Dev,AI,Janet,48,India,2024-01-09,Dropped,3.9,pattylawrence@riley-hayes.com,Student is a sophomore
+1007,AI for Beginners,Development,Allen,18,Canada,2024-01-05,Completed,3.2,nathanjackson@cabrera-garcia.com,Student is a junior
+1008,SQL Mastery,Cloud,Catherine,18,Australia,2024-08-29,Dropped,4.2,hdavis@jacobs.com,Student is a freshman
+1009,Web Dev,Data,Mary,22,UK,2023-08-02,Dropped,3.4,lucasmichael@brown.com,Student is a freshman
+1010,AI for Beginners,Data,Brian,46,India,2024-11-15,Completed,3.2,matthewking@morse.biz,Student is a freshman
+1011,Web Dev,AI,Amy,37,USA,2023-09-21,In Progress,4.1,sbell@howard.org,Student is a sophomore
+1012,Cloud Computing,Programming,Matthew,31,UK,2023-12-11,Dropped,4.9,rgray@baxter.org,Student is a junior
+1013,AI for Beginners,AI,Aaron,46,UK,2023-07-09,Dropped,3.2,larry70@yahoo.com,Student is a junior
+1014,SQL Mastery,Development,Stefanie,36,India,2024-04-28,Dropped,3.4,lewisjennifer@gmail.com,Student is a junior
+1015,Data Science,Programming,Andrew,34,Australia,2025-05-18,Dropped,4.0,callahandennis@hotmail.com,Student is a freshman
+1016,Python Basics,Cloud,Ashley,20,India,2025-03-29,Completed,4.7,djoseph@graham.biz,Student is a senior
+1017,Cloud Computing,AI,Brandy,35,Germany,2024-03-15,Dropped,4.0,kellywoods@gmail.com,Student is a senior
+1018,Data Science,Data,Kevin,44,Canada,2023-09-01,Dropped,4.2,zwells@martinez-wilson.info,Student is a senior
+1019,SQL Mastery,Data,Lindsey,40,Australia,2023-11-09,Dropped,3.2,cruzcorey@stone.org,Student is a junior
+1020,AI for Beginners,Programming,Michael,39,Canada,2023-07-28,In Progress,4.7,mgoodwin@crawford.com,Student is a sophomore
+1021,Data Science,Programming,Michael,25,UK,2025-03-12,Dropped,4.4,hintontonya@elliott.biz,Student is a sophomore
+1022,Web Dev,Data,Sydney,21,Germany,2025-05-07,In Progress,3.2,austin24@hotmail.com,Student is a senior
+1023,Data Science,Cloud,Misty,22,USA,2023-07-09,Completed,3.1,davidturner@rivera-martin.com,Student is a junior
+1024,Cloud Computing,Data,Julie,25,Canada,2025-05-12,Dropped,3.8,amanda96@bruce-compton.org,Student is a freshman
+1025,Web Dev,Programming,Mallory,19,Canada,2025-01-29,Completed,3.4,dpatrick@gmail.com,Student is a sophomore
+1026,Data Science,Cloud,Pamela,31,Germany,2024-09-18,Completed,4.5,lisagomez@carr.info,Student is a sophomore
+1027,Python Basics,Cloud,Mario,45,Canada,2024-12-03,Completed,4.2,patrickfrank@yahoo.com,Student is a junior
+1028,Web Dev,Programming,David,37,USA,2024-11-20,Completed,3.7,susanhughes@yahoo.com,Student is a junior
+1029,Data Science,Programming,Stanley,20,Germany,2025-02-11,Dropped,4.2,wintersbill@santana-duffy.org,Student is a junior
+1030,Cloud Computing,Data,Patricia,40,UK,2024-05-01,Completed,4.8,perrycory@navarro.info,Student is a junior
+1031,SQL Mastery,AI,Michael,31,Australia,2023-06-16,Completed,4.9,chad23@harris.com,Student is a freshman
+1032,Python Basics,Cloud,Donald,39,India,2024-05-26,Completed,4.1,qcooper@johnson.com,Student is a junior
+1033,Python Basics,AI,Beverly,29,Australia,2023-10-08,In Progress,3.0,sonyabrock@yahoo.com,Student is a freshman
+1034,Cloud Computing,Data,Andrea,37,Canada,2025-01-04,Dropped,4.3,wevans@wright.com,Student is a freshman
+1035,SQL Mastery,Cloud,Joshua,18,India,2024-08-15,In Progress,3.9,lhebert@reynolds-wright.info,Student is a junior
+1036,Python Basics,Development,Christine,35,USA,2023-06-15,Dropped,3.3,danny48@moore.info,Student is a sophomore
+1037,SQL Mastery,Development,Raymond,40,UK,2025-04-30,Dropped,4.2,qgarcia@yahoo.com,Student is a sophomore
+1038,Cloud Computing,AI,David,37,Australia,2025-04-06,Completed,3.8,carloscallahan@meyer-berry.com,Student is a junior
+1039,SQL Mastery,Cloud,David,30,USA,2024-04-15,Completed,4.4,anitaevans@hotmail.com,Student is a junior
+1040,Data Science,Data,Paige,46,Australia,2023-11-23,Completed,3.8,thomas08@mcdaniel.biz,Student is a senior
+1041,Cloud Computing,AI,Danielle,43,USA,2024-01-22,In Progress,4.7,karenroberts@hamilton.com,Student is a sophomore
+1042,AI for Beginners,Data,Renee,20,Australia,2024-05-18,Dropped,3.3,fsimmons@yahoo.com,Student is a junior
+1043,Python Basics,Development,Monica,46,India,2024-03-17,Dropped,4.1,jesseevans@bush.com,Student is a freshman
+1044,SQL Mastery,AI,Shawn,20,USA,2023-12-23,Dropped,4.0,matthewwilliams@gmail.com,Student is a senior
+1045,Web Dev,Data,Charlotte,30,Germany,2024-08-15,Completed,4.1,mlee@obrien.com,Student is a sophomore
+1046,Cloud Computing,Programming,Mary,18,India,2023-12-21,Dropped,3.8,zachary64@yahoo.com,Student is a freshman
+1047,Cloud Computing,Data,Robert,31,USA,2024-06-26,In Progress,3.0,fwilson@gmail.com,Student is a junior
+1048,Python Basics,Cloud,Lisa,24,Canada,2024-08-16,Dropped,3.4,haleyjohn@gmail.com,Student is a sophomore
+1049,AI for Beginners,Cloud,Chelsea,35,UK,2025-02-10,Completed,4.4,kimberly89@herrera-green.com,Student is a freshman
+1050,Data Science,Programming,John,23,Germany,2024-01-16,In Progress,3.0,htrevino@brewer-wilson.org,Student is a junior
