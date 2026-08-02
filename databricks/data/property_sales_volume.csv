@@ -1,0 +1,297 @@
+local_authority,sales_volume_sep_2019,sales_volume_sep_2018
+Barking and Dagenham ,605,597
+Barnet,147,113
+Bexley,138,471
+Brent,497,217
+Bromley,675,730
+Camden,832,720
+Croydon,340,340
+Ealing,300,795
+Enfield,230,291
+Greenwich,632,232
+Hackney,291,559
+Hammersmith and Fulham,142,709
+Haringey ,44,526
+Harrow,499,422
+Hillingdon,234,654
+Hounslow,116,421
+Islington,657,306
+Kensington and Chelsea,46,148
+Kingston upon Thames,398,262
+Lewisham,301,79
+Merton,248,874
+Redbridge,229,675
+Richmond upon Thames,854,547
+Southwark,143,854
+Sutton,694,586
+Tower Hamlets,752,317
+Waltham Forest,354,467
+Wandsworth,620,405
+Westminster ,825,861
+Bolton,785,454
+Bury ,200,473
+Manchester,631,413
+Oldham,55,92
+Rochdale,446,131
+Salford,794,556
+Stockport,205,573
+Tameside,432,542
+Trafford,864,242
+Wigan,84,534
+Knowsley,691,437
+Liverpool,744,884
+Sefton,267,675
+St Helens,889,524
+Wirral,449,570
+Barnsley,193,292
+Doncaster,237,82
+Rotherham,728,79
+Sheffield,439,653
+Bradford,836,353
+Calderdale,295,475
+Kirklees,555,488
+Leeds ,541,516
+Wakefield,838,878
+Gateshead,524,449
+Newcastle upon Tyne,480,414
+North Tyneside,562,712
+Sunderland,791,361
+Birmingham,95,810
+Coventry,843,179
+Sandwell,749,874
+Solihull,543,334
+Walsall,209,742
+Wolverhampton,107,893
+Basildon,202,371
+Braintree,875,507
+Brentwood,531,253
+Castle Point,283,366
+Chelmsford,453,205
+Colchester,375,425
+Epping Forest,157,826
+Harlow,408,503
+Maldon,147,298
+Rochford,443,795
+Tendring,417,631
+Uttlesford,123,492
+Ashford,89,343
+Canterbury,694,639
+Dartford,790,41
+Dover,337,670
+Folkestone and Hythe,412,88
+Gravesham,708,86
+Swale,405,586
+Thanet,643,176
+Tonbridge and Malling,526,202
+Tunbridge Wells,289,764
+Elmbridge,693,188
+Epsom and Ewell,451,871
+Guildford ,700,880
+Mole Valley,701,632
+Reigate and Banstead,791,544
+Runnymede,85,103
+Spelthorne,283,203
+Surrey Heath,52,667
+Tandridge,185,463
+Waverley,559,703
+Woking,218,560
+Broxbourne,89,781
+Dacorum,46,424
+East Hertfordshire,516,122
+Hertsmere,271,147
+North Hertfordshire,166,383
+St Albans,309,768
+Stevenage,735,486
+Three Rivers,311,342
+Watford,262,127
+Welwyn Hatfield ,306,281
+Basingstoke and Deane,203,804
+East Hampshire,438,376
+Eastleigh,685,749
+Fareham,589,520
+Gosport,46,67
+Hart,624,355
+Havant,639,119
+New Forest,73,67
+Rushmoor,205,393
+Test Valley,71,82
+Winchester,83,753
+Adur,644,820
+Arun,879,586
+Chichester,813,768
+Crawley,250,248
+Horsham ,871,811
+Mid Sussex,686,687
+Worthing,140,850
+Eastbourne,366,384
+Hastings ,302,329
+Rother,827,656
+Wealden,673,803
+Bolsover,831,140
+Chesterfield,590,619
+Derbyshire Dales,133,628
+Erewash,41,576
+High Peak,95,44
+North East Derbyshire,751,855
+South Derbyshire,646,395
+Ashfield,631,202
+Bassetlaw,756,277
+Broxtowe,691,825
+Gedling,753,614
+Mansfield,404,137
+Newark and Sherwood,803,128
+Rushcliffe,420,251
+Blaby,598,553
+Charnwood,685,279
+Harborough,648,812
+Hinckley and Bosworth,74,396
+Melton,501,717
+North West Leicestershire,514,489
+Oadby and Wigston,276,169
+Boston,753,283
+East Lindsey,812,760
+Lincoln,780,199
+North Kesteven,657,574
+South Holland,233,304
+South Kesteven,144,208
+West Lindsey,433,194
+Breckland,790,344
+Broadland,693,149
+Great Yarmouth,515,74
+North Norfolk,267,552
+Norwich,62,185
+South Norfolk,45,798
+Babergh,757,627
+East Suffolk,274,723
+Ipswich,832,697
+Mid Suffolk,735,225
+West Suffolk,360,306
+Burnley,469,288
+Chorley,684,200
+Fylde,506,60
+Hyndburn,731,716
+Lancaster,710,375
+Pendle,541,148
+Ribble Valley,840,244
+Rossendale,628,507
+South Ribble,564,56
+West Lancashire,574,391
+Wyre,255,740
+Cambridge,165,786
+East Cambridgeshire,97,298
+Fenland,53,116
+Huntingdonshire,755,731
+South Cambridgeshire,269,350
+Cannock Chase,579,264
+East Staffordshire,513,257
+Lichfield,110,869
+Newcastle-under-Lyme,697,615
+South Staffordshire,189,401
+Stafford,854,875
+Staffordshire Moorlands,818,601
+Tamworth,520,403
+Cheltenham,761,425
+Cotswold,735,230
+Forest of Dean,858,327
+Gloucester,368,531
+Stroud,127,715
+Tewkesbury,350,434
+Cherwell,372,842
+Oxford,393,688
+South Oxfordshire,254,113
+Vale of White Horse,143,632
+West Oxfordshire,834,502
+East Devon,452,850
+Exeter,744,662
+Mid Devon,601,846
+North Devon,546,749
+South Hams,899,489
+Teignbridge,161,310
+Torridge,524,544
+West Devon,187,757
+Bromsgrove,592,653
+Malvern Hills ,900,368
+Redditch,721,343
+Worcester,468,732
+Wychavon,691,702
+North Warwickshire,378,868
+Nuneaton and Bedworth,536,815
+Rugby ,775,465
+Stratford-on-Avon,714,414
+Warwick,607,829
+Aylesbury Vale,390,472
+Chiltern,336,339
+South Bucks,381,555
+Wycombe,393,248
+Corby,378,236
+Daventry,640,690
+East Northamptonshire,448,780
+Kettering,627,90
+Northampton,87,234
+South Northamptonshire,824,713
+Wellingborough,596,666
+Allerdale,729,753
+Barrow-in-Furness,124,257
+Copeland,218,143
+Eden,471,833
+South Lakeland,53,417
+Craven,356,615
+Hambleton,229,471
+Ryedale,95,549
+Scarborough ,161,832
+Selby,454,497
+Mendip,648,646
+Sedgemoor,199,526
+South Somerset,124,699
+Somerset West and Taunton,681,55
+Bath and North East Somerset ,725,164
+Bedford,263,164
+Blackburn with Darwen ,776,622
+Blackpool,231,91
+"Bournemouth, Christchurch and Poole",751,188
+Bracknell Forest,683,610
+Brighton and Hove,300,93
+Bristol ,55,706
+Central Bedfordshire,438,358
+Cheshire East,894,538
+Cheshire West and Chester,628,785
+Cornwall,188,856
+Darlington,207,684
+Derby,836,845
+Dorset,812,620
+Durham,676,706
+East Riding of Yorkshire,380,660
+Halton ,194,655
+Hartlepool,292,425
+Herefordshire,829,279
+Isle of Wight,41,369
+Isles of Scilly,640,875
+Kingston upon Hull,335,893
+Leicester,625,190
+Luton,866,600
+Medway,395,587
+Middlesbrough,856,430
+Milton Keynes,279,356
+North East Lincolnshire,516,765
+North Lincolnshire,809,49
+North Somerset,129,589
+Northumberland,278,447
+Nottingham,893,574
+Peterborough,246,233
+Plymouth,865,757
+Portsmouth,407,452
+Reading,292,85
+Redcar and Cleveland,148,420
+Rutland,199,363
+Shropshire,571,661
+Southampton,537,640
+Southend-on-Sea,837,326
+Stockton-on-Tees,825,647
+Stoke-on-Trent,300,78
+Swindon,427,125
+Torbay,538,105
+Warrington,162,763
+West Berkshire,618,278
+Wiltshire,725,558
+Windsor and Maidenhead,203,419
+Wokingham,267,216
